@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    clear: both;
+}
+
+.block {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    float: left;
+    margin: 20px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.float {
+    float: left;
+}
+
+.mr-auto {
+    margin: auto;
+}
+
+.ml-auto {
+    margin: auto;
+}
+
+.h50p {
+    height: 79px;
+}
+
+.center {
+    background-color: aqua;
+    height: 240px;
+    margin: auto;
+    width: 480px;
+}
+
+.margine {
+    margin: 20px;
+}
